@@ -3,7 +3,7 @@
 import { useState, useEffect } from 'react'
 import { User } from '@supabase/supabase-js'
 import { supabase } from '@/lib/supabase'
-import { Menu, X, Trophy, Users, Calendar, Settings, LogOut } from 'lucide-react'
+import { Menu, X, Trophy, Users, Calendar, LogOut } from 'lucide-react'
 
 interface LayoutProps {
   children: React.ReactNode
