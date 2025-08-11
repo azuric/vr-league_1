@@ -80,7 +80,7 @@ export default function Home() {
               The Future of <span className="text-transparent bg-clip-text bg-gradient-to-r from-cyan-400 to-purple-600">VR Esports</span>
             </h1>
             <p className="text-xl text-gray-300 mb-8 max-w-3xl mx-auto">
-              Where Virtual Reality meets competitive gaming. Join the UK's premier Population One league.
+              Where Virtual Reality meets competitive gaming. Join the UK premier Population One league.
             </p>
           </div>
 
@@ -107,7 +107,7 @@ export default function Home() {
                 <TrendingUp className="w-6 h-6 text-white" />
               </div>
               <h3 className="text-xl font-bold text-white mb-2">Climb, Fly, Build</h3>
-              <p className="text-gray-300">Experience Population One's revolutionary Vertical Combat System in competitive tournaments.</p>
+              <p className="text-gray-300">Experience Population One revolutionary Vertical Combat System in competitive tournaments.</p>
             </div>
           </div>
 
